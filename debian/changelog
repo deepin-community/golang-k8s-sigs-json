@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-k8s-sigs-json (0.0~git20211208.9f7c6b3-2) unstable; urgency=medium
 
-  * Initial release
+  * Source upload, no changed.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Nobuhiro Iwamatsu <iwamatsu@debian.org>  Wed, 19 Jan 2022 09:05:38 +0900
+
+golang-k8s-sigs-json (0.0~git20211208.9f7c6b3-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1003425)
+
+ -- Nobuhiro Iwamatsu <iwamatsu@debian.org>  Mon, 10 Jan 2022 07:51:25 +0900
